@@ -1,1 +1,1 @@
-# Dobe a dog breading app
+# Dobe - a dog breading app
