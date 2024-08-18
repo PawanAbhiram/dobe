@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "516756351659",
+    "project_id": "architectureexample-71823",
+    "storage_bucket": "architectureexample-71823.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516756351659:android:e96d9ca4b6a3011a0d65ee",
+        "android_client_info": {
+          "package_name": "com.example.architecture_pattern"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcZDmGl3M_SobPbRPlAm763AT5TFonhmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
